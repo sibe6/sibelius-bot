@@ -1,0 +1,6 @@
+constants.py
+.env
+__pycache__
+audio/
+const_audio/
+.latest_news.txt
